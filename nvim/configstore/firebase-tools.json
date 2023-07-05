@@ -1,0 +1,51 @@
+{
+	"analytics-uuid": "167906a0-0384-4603-92d6-8d134db8aedf",
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1666983395722
+	},
+	"usage": true,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "105884312753392602404",
+		"email": "gwalijohn@gmail.com",
+		"email_verified": true,
+		"at_hash": "L0bopXUTC3UQQPuO2R3a7Q",
+		"iat": 1666983419,
+		"exp": 1666987019
+	},
+	"tokens": {
+		"expires_at": 1667002231400,
+		"refresh_token": "1//03BI_3kiDgudPCgYIARAAGAMSNwF-L9Ir0xro3pdOAeY3o8kUAuZwur4KlpWsnQrZsbNlXLedOz9F8ORNO1xVYx6-f0GYZvZ2axg",
+		"scopes": [],
+		"access_token": "ya29.a0Aa4xrXNbFW6AateYfiWkAtlIkGeH1rp9pzUYiGZFJTmPXu49RuDN-YkQK1hhNIplFX-7qwVOsnXmYQjdiCbcFkg20q1k3ztV30tKQkdJqjukPLpZX4lvLV9Khv1-6F5BAMdQ8CEAF-0ymORxwV0kwljjVrEUfGEvXOZOngaCgYKATASARMSFQEjDvL9AOH-E7NmkjOO0ie3uKyutg0173",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloudplatformprojects.readonly openid https://www.googleapis.com/auth/firebase",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6Ijc3Y2MwZWY0YzcxODFjZjRjMGRjZWY3YjYwYWUyOGNjOTAyMmM3NmIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTA1ODg0MzEyNzUzMzkyNjAyNDA0IiwiZW1haWwiOiJnd2FsaWpvaG5AZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJFZF92bEctckpEZjYySmdNWUIxWVRnIiwiaWF0IjoxNjY2OTk4NjMyLCJleHAiOjE2NjcwMDIyMzJ9.hf7riIxZoL1dFmk-aB2L2OHjfmQP9vYpGdoC04f9OzyFEhr-ny4lRSROXpP0Ymo0eh23f4Sv77Rzm4xL-Ta04EgnwM3Cgvd-Am2PRIrNw0bgmKrW63ep8DZIpr2_Z3cCxk1TfDaSPbo2ohAVCKS-yKQE3wPjg1093YCSHg3xlSVfL74uca0g2mfYfdsjEYUHI6BcbGzp63QVxjqZbxH8hVARGtEa8jzS9_mvct-od4-M3bpBrKbg5-rvJKnmU6kvIIywxPPCGrmupDgDWnOAlriw0I7eZm6seVjnHQiUfSAra-bqf1XDFhwf-3i73Qd0U6SEQMXVsVkBofa9bDVOLA"
+	},
+	"activeProjects": {
+		"/Users/osake/Desktop/Node/firebase_tuts/codelab-friendlychat-web/web-start": "staging"
+	},
+	"emulator-analytics-clientId": "392d0699-11e6-437f-8fa7-ae7dc1a24baa",
+	"webconfig": {
+		"friendly-chat-7951b": {
+			"projectId": "friendly-chat-7951b",
+			"appId": "1:350654361457:web:c2912111c1772ebceb50d0",
+			"storageBucket": "friendly-chat-7951b.appspot.com",
+			"locationId": "us-central",
+			"apiKey": "AIzaSyAoZn3oLQJ42H6sBeSAyPaty4xVqq1AHlQ",
+			"authDomain": "friendly-chat-7951b.firebaseapp.com",
+			"messagingSenderId": "350654361457",
+			"measurementId": "G-ZRKW5Y5ELC"
+		}
+	}
+}
