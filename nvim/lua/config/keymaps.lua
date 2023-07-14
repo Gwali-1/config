@@ -9,11 +9,11 @@ map("v", "J", ":m '>+1<CR>gv=gv", opts)
 map("v", "K", ":m '<-2<CR>gv=gv", opts)
 map("n", "<leader><leader>", ":Telescope buffers<CR>", opts)
 map("n", "<leader>m", ":Mason<CR>", opts)
-
-
+map("v", "<leader>\\",":norm I//<CR>", opts)
+map("v", "<leader>\\\\",":norm ^xx <CR>", opts)
 -- Remap for dealing with visual line wraps
-map("n", "k", "v:count == 0 ? 'gk' : 'k'", { expr = true })
-map("n", "j", "v:count == 0 ? 'gj' : 'j'", { expr = true })
+map("n", "k", "v:count == 0 ? '3gk' : '3k'", { expr = true })
+map("n", "j", "v:count == 0 ? '3gj' : '3j'", { expr = true })
 
 -- better indenting
 map("v", "<", "<gv")
