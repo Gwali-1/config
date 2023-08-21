@@ -2,6 +2,7 @@ local opts = { noremap = true, silent = true }
 
 local map = vim.keymap.set
 
+vim.cmd([[autocmd BufWritePost *.html !htmlbeautifier %]])
 map("n", "<C-Space>", ":WhichKey \\<space><cr>", opts)
 map("n", "<C-d>", "<C-d>zz", opts)
 map("n", "<C-u>", "<C-u>zz", opts)
